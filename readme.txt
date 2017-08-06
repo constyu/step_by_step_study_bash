@@ -5,10 +5,5 @@
 555555
 666666
 777777
-<<<<<<< HEAD
-8888888888888888
-add one line for test
-=======
-8888888888888888
-add one line for test
->>>>>>> fenzhi
+888888
+
